@@ -13,8 +13,7 @@ body {
     background-image: url('../img/jumb2.jpg');
     background-attachment: fixed;
     background-size:cover;
-    background-position: 0;
-    background-position-y: -120px;
+    background-position-y: -200px;
     color:#eaeaea; 
 }
 
@@ -46,16 +45,6 @@ hr {
 section {
     min-height:490px;
     text-align: justify;
-}
-
-.about {
-    opacity: 1;
-}
-
-.text-center.dissapear h2{
-    opacity: 0;
-    transition: 1.5s;
-    transform: translate(-5px,0);
 }
 
 .leftparagraph {
